@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/Vinnitschenko/Statmetrics-Android/master/statmetrics.jpg">
 
 
-[Statmetrics](http://www.statmetrics.org/) offers an all-in-one solution for portfolio analytics and investment research. Statmetrics is optimized for use on android mobile devices and allows users to access global market data and news, monitor and screen markets, perform charting and technical analysis, construct and backtest multiple multi-asset portfolios, apply portfolio risk-return optimization strategies, analyze the fundamental and quantitative characteristics of your portfolio or potential investments.
+[Statmetrics](http://www.statmetrics.org/) offers an all-in-one solution for portfolio analytics and investment research. Statmetrics is optimized for use on android mobile devices and allows users to access global market data and news, monitor and screen markets, perform charting and technical analysis, construct and backtest multiple multi-asset portfolios, apply portfolio risk-return optimization strategies, analyze the fundamental and quantitative characteristics of portfolio or potential investments.
 
 
 <p align="center">  
