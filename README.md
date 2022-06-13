@@ -1,4 +1,4 @@
-# Statmetrics for Android
+# Statmetrics - Mobile App for Portfolio Analytics and Investment Management
 <img src="https://raw.githubusercontent.com/Vinnitschenko/Statmetrics-Android/master/statmetrics.jpg">
 
 
@@ -8,6 +8,10 @@
 <p align="center">  
 <a href="https://play.google.com/store/apps/details?id=org.statmetrics.app"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="120"></a>
 </p>
+<br/>
+<a href="https://play.google.com/store/apps/details?id=org.statmetrics.app"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="120"></a>
+</p>
+
 
 [www.statmetrics.org](http://www.statmetrics.org/) | 
 [APK Download](https://statmetrics.org/cms2/#download)  | 
