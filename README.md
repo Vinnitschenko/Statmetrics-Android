@@ -8,7 +8,7 @@
 <p align="center">  
 <a href="https://play.google.com/store/apps/details?id=org.statmetrics.app"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="120" alt="Download from Google Play"></a>
 <br/>
-<a href="http://www.amazon.com/gp/mas/dl/android?p=org.statmetrics.app"><img src="https://images-na.ssl-images-amazon.com/images/G/01/mobile-apps/devportal2/res/images/amazon-appstore-badge-english-white.png" height="60" alt="Download from Amazon Appstore"></a>
+<a href="http://www.amazon.com/gp/mas/dl/android?p=org.statmetrics.app"><img src="https://images-na.ssl-images-amazon.com/images/G/01/mobile-apps/devportal2/res/images/amazon-appstore-badge-english-white.png" height="80" alt="Download from Amazon Appstore"></a>
 
 </p>
 
