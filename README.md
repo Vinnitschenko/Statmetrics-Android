@@ -15,6 +15,6 @@
 
 [www.statmetrics.org](http://www.statmetrics.org/) | 
 [APK Download](https://statmetrics.org/cms2/#download)  | 
-[Google Play](https://play.google.com/store/apps/details?id=org.statmetrics.app) | 
+[Google Play](https://play.google.com/store/apps/details?id=org.statmetrics.app&referrer=utm_source%3Dgithub.com) | 
 [Twitter](https://twitter.com/statmetrics) | 
 [Facebook](https://www.facebook.com/Statmetrics-110841637303428/) | [LinkedIn](https://www.linkedin.com/company/statmetrics/)
